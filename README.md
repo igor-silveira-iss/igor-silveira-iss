@@ -4,7 +4,12 @@
 <img src="https://raw.githubusercontent.com/egonelbre/gophers/master/.thumb/animation/gopher-dance-long-3x.gif" width="42" alt="gopher" />
 </h1>
 
+<h3 align="center">
+  Data Engineer | Tecnologia | Desenvolvimento
+</h3>
+
 <p align="center">
+  Transformando dados em conhecimento e ideias em soluções.
   <em>Apenas um apaixonado por tecnologia</em>
 </p>
 
@@ -18,10 +23,7 @@
 ## 🛠️ Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://skillicons.dev/icons?i=python,go,postgres,linux,git,github,vscode&theme=dark" />
 </p>
 
 <h2>🎓 Formação</h2>
