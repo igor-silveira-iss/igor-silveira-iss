@@ -44,9 +44,3 @@
     <td align="center">✅ Concluído</td>
   </tr>
 </table>
-
-<h2>🎯 Em que estou focado</h2>
-
-<p>
-  📚 Estudando <b>desenvolvimento backend com Go</b>, aplicando a experiência em dados para construir APIs e ferramentas mais robustas.
-</p>
