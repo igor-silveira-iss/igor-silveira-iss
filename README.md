@@ -13,7 +13,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <img src="https://img.shields.io/github/followers/igor-silveira-iss?label=Followers&style=for-the-badge&color=181717&logo=github" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/igor-silveira-iss?affiliations=OWNER&style=for-the-badge&label=Total%20Stars&color=yellow&logo=github" alt="Total Stars" />
 </p>
 
 ## 🛠️ Stack
