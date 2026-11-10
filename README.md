@@ -27,7 +27,7 @@
 
 <h2>🎓 Formação</h2>
 
-<table>
+<table align="center">
   <tr>
     <td align="center" width="60">🧠</td>
     <td>
